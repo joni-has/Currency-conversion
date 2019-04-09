@@ -1,0 +1,26 @@
+body {
+    background: #36BFC4;
+}
+
+body h1 {
+    color: black;
+    font-weight: 600px;
+    
+}
+
+body p {
+    color: black;
+}
+.card{
+    background-color: #E4E4E4;
+    box-shadow: 13px 13px 13px black;
+}
+.swap {
+    cursor: pointer;
+   
+  }
+
+.currencyswap:hover {
+    cursor: pointer;
+}
+  
